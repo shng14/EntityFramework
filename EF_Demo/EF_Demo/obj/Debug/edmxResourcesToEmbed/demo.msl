@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="demodbModelStoreContainer" CdmEntityContainer="demodbEntities">
+    <EntitySetMapping Name="demotbls">
+      <EntityTypeMapping TypeName="demodbModel.demotbl">
+        <MappingFragment StoreEntitySet="demotbl">
+          <ScalarProperty Name="demoID" ColumnName="demoID" />
+          <ScalarProperty Name="demoCode" ColumnName="demoCode" />
+          <ScalarProperty Name="demoName" ColumnName="demoName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

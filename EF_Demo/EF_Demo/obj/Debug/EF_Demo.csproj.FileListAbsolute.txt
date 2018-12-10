@@ -1,0 +1,14 @@
+D:\EF\EF_Demo\EF_Demo\bin\Debug\EF_Demo.exe.config
+D:\EF\EF_Demo\EF_Demo\bin\Debug\EF_Demo.exe
+D:\EF\EF_Demo\EF_Demo\bin\Debug\EF_Demo.pdb
+D:\EF\EF_Demo\EF_Demo\bin\Debug\EntityFramework.dll
+D:\EF\EF_Demo\EF_Demo\bin\Debug\EntityFramework.SqlServer.dll
+D:\EF\EF_Demo\EF_Demo\bin\Debug\EntityFramework.xml
+D:\EF\EF_Demo\EF_Demo\bin\Debug\EntityFramework.SqlServer.xml
+D:\EF\EF_Demo\EF_Demo\obj\Debug\EF_Demo.csprojResolveAssemblyReference.cache
+D:\EF\EF_Demo\EF_Demo\obj\Debug\EF_Demo.Form1.resources
+D:\EF\EF_Demo\EF_Demo\obj\Debug\EF_Demo.Properties.Resources.resources
+D:\EF\EF_Demo\EF_Demo\obj\Debug\EF_Demo.csproj.GenerateResource.Cache
+D:\EF\EF_Demo\EF_Demo\obj\Debug\EF_Demo.exe
+D:\EF\EF_Demo\EF_Demo\obj\Debug\EF_Demo.pdb
+D:\EF\EF_Demo\EF_Demo\obj\Debug\EF_Demo.frmInsert.resources
